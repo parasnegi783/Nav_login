@@ -15,7 +15,7 @@ This project presents a modern and stylish navigation bar layout combined with a
 4. Use the login form to authenticate with your credentials.
 
 ## Demo
-You can view a live demo of the project []
+You can view a live demo of the project [https://parasnegi783.github.io/Nav_login/]
 
 ## Contributing
 Contributions to this project are welcome. You can contribute by submitting pull requests or suggesting improvements.
